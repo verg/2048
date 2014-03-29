@@ -2,8 +2,8 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #faf8ef;
-  color: #776e65;
+  background: #4DC9FF;
+  color: #FFFFFF;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
 
@@ -16,10 +16,11 @@ body {
   clear: both; }
 
 h1.title {
-  font-size: 80px;
+  font-size: 58px;
   font-weight: bold;
   margin: 0;
   display: block;
+  padding-bottom: 10px;
   float: left; }
 
 @-webkit-keyframes move-up {
@@ -101,7 +102,7 @@ p {
   line-height: 1.65; }
 
 a {
-  color: #776e65;
+  color: #F5F5F5;
   font-weight: bold;
   text-decoration: underline;
   cursor: pointer; }
@@ -149,7 +150,7 @@ hr {
   -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  background: #bbada0;
+  background: #80D9FF;
   border-radius: 6px;
   width: 500px;
   height: 500px;
